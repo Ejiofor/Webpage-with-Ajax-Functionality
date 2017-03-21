@@ -1,0 +1,47 @@
+@media screen and (min-width: 480px) {
+  body
+  {
+	  font-family: 'Open Sans', sans-serif;
+	  font-size:14px;
+	  padding:0;
+	  margin:0;
+	  background-image: url("juice.jpg");
+	  background-size: cover;
+	  background-position: center center;
+	  background-repeat: no-repeat;
+	  background-attachment: fixed;
+  }
+}
+
+#underInput{
+	color: red;
+}
+
+h2{
+	margin-left: 500px;
+	color: black;
+	position: absolute;
+	margin-top: -90px;
+	font-size: 70px;
+	font-style: normal;
+}
+
+button{
+	position: absolute;
+	margin-left: 730px;
+	margin-top: -250px;
+	font-size: 30px;
+	background: black;
+	color: white;
+}
+
+
+.centerit{
+	margin: 300px 500px 300px 700px;
+}
+
+p{
+	font-size: 20px;
+	margin-left: -70px;
+	color: black;
+}
